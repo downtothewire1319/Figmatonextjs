@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import minus from "../../public/assests/minu.svg"; // adjust path as needed
-import plus from "../../public/assests/plusp.svg"; // adjust path as needed
+import plus from "../../public/assests/plus.svg"
 import * as Accordion from "@radix-ui/react-accordion";
 import { useState } from "react";
 
