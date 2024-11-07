@@ -65,7 +65,7 @@ export function Footer() {
                 </div>
                 <div>
                     <div className="flex flex-col mt-6 lg:flex-row lg:items-center lg:justify-between">
-                        <p>© Copyright 2024. Your Site. All rights reserved.</p>
+                        <p> {'\u00A9'} Copyright 2024. Your Site. All rights reserved.</p>
                         <div className="flex flex-row items-center justify-center space-x-6 mt-4">
                             <Image src={x} alt="x" />
                             <Image src={facebook} alt="facebook" />

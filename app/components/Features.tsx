@@ -24,7 +24,7 @@ export function Feature() {
           <Image src={feature1} alt="feature 1" className="lg:hidden" />
           <p className="text-[#36485C] font-medium text-4 mt-4">
             Stay on top of things and revamp your work process with our
-            game-changing feature. Get a bird's eye view with our customizable
+            game changing feature. Get a birds eye view with our customizable
             dashboard.
           </p>
 
@@ -67,7 +67,7 @@ export function Feature() {
           <Image src={feature2} alt="feature 1" className="lg:hidden" />
           <p className="text-[#36485C] font-medium text-4 mt-4">
             Stay on top of things and revamp your work process with our
-            game-changing feature. Get a bird's eye view with our customizable
+            game-changing feature. Get a birds eye view with our customizable
             dashboard.
           </p>
 
@@ -114,7 +114,7 @@ export function Feature() {
           <Image src={feature3} alt="feature 1" className="lg:hidden" />
           <p className="text-[#36485C] font-medium text-4 mt-4">
             Stay on top of things and revamp your work process with our
-            game-changing feature. Get a bird's eye view with our customizable
+            game-changing feature. Get a birds eye view with our customizable
             dashboard.
           </p>
 

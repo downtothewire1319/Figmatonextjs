@@ -23,7 +23,7 @@ export function Pricing() {
                         
                         <h3>Free Trial</h3>
                         <p>Perfect for testing the waters</p>
-                        <h1>$0/mo</h1>
+                        <h1>{'\u0024'}0/mo</h1>
 
                         <div className="flex gap-x-4 mt-4">
                             <Image src={check} alt="check" />
@@ -47,7 +47,7 @@ export function Pricing() {
                         
                         <h3>Business</h3>
                         <p>Perfect for small businesses</p>
-                        <h1>$5000/mo</h1>
+                        <h1> {'\u0024'} 5000/mo</h1>
                         <div className="flex gap-x-4 mt-4">
                             <Image src={check} alt="check" />
                             <p>Lorem ipsum dolor sit amet</p>
